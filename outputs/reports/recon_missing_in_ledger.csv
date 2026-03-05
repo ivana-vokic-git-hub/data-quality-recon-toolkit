@@ -1,0 +1,4 @@
+transaction_id,date,amount,currency_bank,account,ledger_id,posting_date,currency_ledger,_merge
+T003,2024-01-04,89.99,EUR,A200,,,,left_only
+T004,2024-01-05,-450.0,EUR,A100,,,,left_only
+T006,2024-01-06,75.25,EUR,A200,,,,left_only

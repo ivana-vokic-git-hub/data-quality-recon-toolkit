@@ -1,0 +1,4 @@
+transaction_id,date,amount,currency_bank,account,ledger_id,posting_date,currency_ledger,_merge
+,,90.1,,A200,L003,2024-01-04,EUR,right_only
+,,450.0,,A100,L004,2024-01-05,EUR,right_only
+,,500.0,,A400,L007,2024-01-08,EUR,right_only
